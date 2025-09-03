@@ -229,7 +229,6 @@ if(ipkeep == 4){
         }
         i++;
         }
-}
 int main(int argc, char *argv[ ])
 {
         if(argc < 6){
